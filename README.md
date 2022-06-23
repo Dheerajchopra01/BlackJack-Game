@@ -1,8 +1,9 @@
 # BlackJack-Game
-This project includes development of Basic JavaScript game - Black Jack.  Happy Playing!  Happy Learning :)
+This project includes development of Basic JavaScript game - Black Jack.  
+Happy Playing!  Happy Learning :)
 
 
-# Learnt about :
+**Learnt about below topics in JavaScript with this project :** 
 
 a) arrays 
 
@@ -22,4 +23,4 @@ h) The Math Object
 
 i) return statements 
 
-in javascript
+
